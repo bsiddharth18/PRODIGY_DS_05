@@ -47,7 +47,14 @@ Key Columns Used: Severity, Start_Time, Start_Lat, Start_Lng, Weather_Condition,
 - Geographic heatmap to visualize accident hotspots across regions
 
 ## Key Insights:
+#### Frequency vs Severity: 
+Accidents peak during daytime and commuting hours due to traffic volume, while low visibility and adverse weather are associated with higher-impact incidents.
 
+#### Infrastructure Impact: 
+Locations without traffic signals and complex road features (e.g., junctions, turning loops) show a higher proportion of severe accidents.
+
+#### Spatial Concentration: 
+High-risk zones cluster around major urban corridors and dense transportation networks, indicating priority areas for targeted safety interventions.
 
 ## Repository Structure:
 PRODIGY_DS_05/
