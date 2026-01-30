@@ -56,18 +56,6 @@ Locations without traffic signals and complex road features (e.g., junctions, tu
 #### Spatial Concentration: 
 High-risk zones cluster around major urban corridors and dense transportation networks, indicating priority areas for targeted safety interventions.
 
-## Repository Structure:
-PRODIGY_DS_05/
-├── data/
-│   └── US_Accidents_500k.csv
-├── notebook/
-│   └── task5_accident_analysis.ipynb
-├── images/
-│   ├── time_of_day_distribution.png
-│   ├── severity_by_traffic_signal.png
-│   ├── severity_features.png
-│   └── accident_hotspots.html
-└── README.md
 
 ## Conclusion
 
